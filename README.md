@@ -3,4 +3,5 @@ A python script to detect colours present in an image and present it in the form
 
 # Usage
   
-screen-shot of the UI :
+We will be performing the operations on this image:
+![sample](images/index.jpg)
