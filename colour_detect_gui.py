@@ -46,7 +46,7 @@ def gui():
     root = Tk()
     root.geometry("600x200+700+400")
     root.resizable(False, False)
-    root.title("University Management")
+    root.title("Colours From Image")
 
     l = Label(root, text="Enter the path to the image you want to analyse ")
     l.place(x=20, y=20)
